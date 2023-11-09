@@ -1,0 +1,73 @@
+ARRAY QUESTIONS
+----------------
+Calculate the sum of all elements in the array.
+Find the index of a specific element in the array.
+Print an array in reverse order
+Sort the elements of the array in ascending order.
+Replace all negative elements in the array with zeros.
+Sort the elements of the array in descending order.
+
+Find the largest element in the array.
+Find the smallest element in the array.
+Calculate the average of all elements in the array.
+Find the average of even elements in the array.
+Find the average of odd elements in the array.
+Reverse the elements of the array.
+Insert an element at a specific position in the array.
+
+Delete an element from a specific position in the array.
+Merge two arrays into a third array.
+Find the second largest element in the array without sorting (Assume no elements are repeating)
+Find the second smallest element in the array without sorting (Assume no elements are repeating)
+Find prime numbers in an array
+
+Find the frequency of all elements in the array.
+Find unique elements in an array
+Find array elements that occur exactly three times
+Remove duplicates from the array.
+Find the element that appears more than n/2 times in the array.
+
+Delete two elements after occurrence of a prime number
+Find average of prime numbers numbers in an array
+Find average of non prime numbers numbers in an array
+Separate even and odd elements into two separate arrays.
+
+Delete three elements after occurrence of a non prime number
+Find third largest element without sorting (Assume no elements are repeating)
+Find third smallest element without sorting (Assume no elements are repeating)
+
+Write a program in C to move all zeros to the first without sorting (Don’t change order of elements)
+Find the kth largest element in the array (Assume no elements are repeating)
+Find the kth smallest element in the array (Assume no elements are repeating)
+
+Write a program in C to move all negative elements to the first without sorting (Don’t change order of elements)
+Write a program to find the average of all unique array elements.
+Write a program to find the most repeated element in an array
+
+Write a program to merge two unsorted arrays in sorted order ?
+Write a program to move all negative numbers to right and positive numbers to left in an array 
+Write a program to separate prime and non-prime numbers in separate arrays
+
+Write a program to count the frequency of each element of an array. Delete the element if frequency is greater than half the size of array
+Write a program in C to sort an array in descending order to the left from middle and in ascending order to the right from middle.
+
+Write a program to find the array elements those frequencies are even and delete the array elements with frequency of odd
+Write a program to move all multiple of three to the end of a given array and remove multiples of 2
+Write a program to count all negative numbers and move to beginning of a given array and find average of non-negative numbers
+
+Write a program to find the unique largest prime number in an array.
+Write a program to find multiples of 3 and insert its double after that element
+Write a program to find the smallest multiple of 5 in an unsorted array and delete largest element
+
+Write a program to find the largest non-prime number in an unsorted array.
+Write a program to delete two elements after the occurrence of an even number which is also multiple of 10
+Write a program to find the most repeated element in an array and delete two elements after the same (Delete two elements after last element)
+
+Write a program to read n number of values in an array and replace all the unique multiples of 5 and 11 by it’s index position
+Sort the array and replace elements in an even position with ‘0’ and remove unique odd numbers.
+Write a program to find the average of all the unique prime numbers in an array
+
+
+
+
+

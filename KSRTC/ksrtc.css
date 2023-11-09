@@ -1,0 +1,392 @@
+.header{
+    width: 100%;
+    height: 118px;
+    background: #fff;
+}
+.top{
+    width: 100%;
+    height: 32.84px;
+    background: #190D1f;
+    margin-top: 0px;
+}
+body{
+    margin: 0;
+}
+.img1{
+    margin-top: 4px;
+    margin-left: 7%;
+}
+.top2{
+    width: 100%;
+    background: #EA2703;
+    height: 1px;
+}
+.twitterlogo{
+    color: #EA2703;
+    font-size: 12px;
+    margin-left: 23%;
+    margin-top: 1%;
+}
+.instalogo{
+    color: #EA2703;
+    font-size: 12px;
+    margin-left: 14%;
+    margin-top: 1%;
+}
+.facebooklogo{
+    color: #EA2703;
+    font-size: 12px;
+    margin-left: -12%;
+    margin-top: 1%;
+}
+.utubelogo{
+    color: #EA2703;
+    font-size: 12px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.calllogo{
+    color: #EA2703;
+    font-size: 12px;
+    margin-left: -27%;
+    margin-top: 1%;
+}
+.login{
+    color: #EA2703;
+    font-size: 12px;
+    margin-left: 80%;
+    margin-top: 1%
+}
+.no{
+    margin-left:-1046px;
+    color: #A9A9A9;
+    font-size: 15px;
+}
+.official{
+    margin-left:511px;
+    color: #A9A9A9;
+    font-size: 15px;
+}
+.operator{
+    padding-left: 80px;
+    color: #EA2703;
+    font-size: 15px;
+}
+.home{
+    font-family: sans-serif;
+    margin-left: 253px;
+    margin-top: 50px;
+    font-size: 13PX;
+   
+}
+.tp{
+    display: flex;
+}
+.home1{
+    font-family: sans-serif;
+    margin-left: 21px;
+    margin-top: 50px;
+    font-size: 13PX;
+}
+.home2{
+    font-family: sans-serif;
+    margin-left: 21px;
+    margin-top: 50px;
+    font-size: 13PX;
+}
+.home3{
+    font-family: sans-serif;
+    margin-left: 21px;
+    margin-top: 50px;
+    font-size: 13PX;
+}
+.mainimg{
+    width: 100%;
+}
+.s1{
+    background-color: #EA2703;
+    color: #fff;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.left{
+    width: 43%;
+    height: 1096px;
+    background-color: #fff;
+}
+.right{
+    width: 637.51px;
+    height: 1004.76px;
+    background-color:#fff;
+    box-shadow: 5px 5px 10px #888888;
+    margin-top: 53px;
+    border-radius: 5px;
+    margin-left: -117px;
+}
+.box{
+    display: flex;
+}
+.manageric{
+    margin-left: 80px;
+    margin-top: 25px;
+}
+.ch{
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.part{
+    margin-top: 6px;
+width: 452.21px;
+height: 141.98px;
+margin-left: 82px;
+background-color: #fff;
+box-shadow: 5px 5px 10px #888888;
+border-radius: 5px;
+display: flex;
+}
+.sribiju{
+    width: 114px;
+    height: 130px;
+     margin-left: 7px;
+    margin-top: 4px;
+}
+.part1{
+    margin-top: 6px;
+    width: 452.21px;
+    height: 141.98px;
+    margin-left: 82px;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #888888;
+    border-radius: 5px;
+}
+.keraleeyam{
+    width: 410px;
+    height: 102px;
+    margin-left: 20px;
+    margin-top: 18px;
+}
+.part2{
+    margin-top: 34px;
+    width: 452.21px;
+    height: 141.98px;
+    margin-left: 82px;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #888888;
+    border-radius: 5px;
+}
+.logi{
+    width: 410px;
+    height: 102px;
+    margin-left: 20px;
+    margin-top: 18px;
+}
+.customer{
+    margin-left: 87px;
+    margin-top: 43px;
+}
+.sup{
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    margin-top: -25px;
+    margin-left: 112px;
+}
+.part3{
+    margin-top: -2px;
+    width: 452.51px;
+    height: 250.55px;
+    margin-left: 82px;
+    background-color: #fff;
+    box-shadow: 5px 5px 10px #888888;
+    border-radius: 5px;
+    padding-top: 20px;
+}
+.online{
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 29px;
+    font-family: sans-serif;
+    color: #EA2703; 
+}
+.phone{
+    margin-left: 28px;
+    margin-top: 10px;
+}
+.mobile{
+    margin-left: 27px;
+    margin-top: 1%;
+}
+.msg{
+    color: #EA2703;
+    margin-left: 28px;
+    
+}
+.relation{
+    padding-top: 20px;
+    color: #EA2703;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 29px;
+    font-family: sans-serif;
+    
+}
+.media{
+    padding-top: 20px;
+    color: #EA2703;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 29px;
+    font-family: sans-serif;
+
+}
+.sri{
+    /* margin-top: -111px;
+    margin-left: 163px; */
+    
+    font-family: 16px;
+    font-family:sans-serif;
+}
+.sri-text-box{
+    padding: 20px;
+}
+.text1{
+    padding-top: 10px;
+    font-size: 15px;
+}
+.link{
+    margin-top: 27px;
+    padding-left: 2px;
+    display: flex;
+}
+.usefullink{
+    margin-top: 28px;
+    margin-left:3px;
+    font-family:sans-serif;
+   font-weight: 600;
+}
+.external{
+    width: 40px;
+    
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: #e7e7e7;
+    border-radius: 5px;
+    display: grid;
+    place-items: center;
+}
+.right1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    padding-left: 34px;
+    padding-right: 34px;
+}
+.imgtxt{
+    padding-top: 5px;
+    margin-left: 14px;
+}
+.mainbox1{
+    height: 130px;
+    padding-top: 1px;
+    width: 100px;
+}
+.portal{
+    margin-left: 34px;
+}
+.imgtxt1{
+    padding-left: 24px;
+    padding-top: 6px;
+}
+.imgtxt2{
+    padding-left: 11px;
+    padding-top: 6px;
+}
+.tour{
+    padding-left:4px ;
+    padding-top: 6px;
+}
+.tender{
+    padding-left:28px ;
+    padding-top: 6px;
+}
+.fare{
+    padding-left:37px ;
+    padding-top: 6px;
+}
+.zone{
+    padding-left:-2px ;
+    padding-top: 6px;
+}
+.clprjct{
+    padding-left:24px ;
+    padding-top: 6px;
+}
+.neo{
+    padding-left:37px ;
+}
+.ente{
+    padding-left:37px ;
+}
+.KSRTC{
+    padding-left: 29px;
+}
+.Ts{
+padding-left: 27PX;
+}
+.RTI{
+    font-weight: 600;
+}
+.footer{
+    width: 1285.42px;
+    height: 338.24px;
+    background: #190D1f;
+}
+.footbox1{
+    width: 277.5px;
+    height: 298.24px;
+    background:#190D1f;
+    
+    
+}
+.footbox{
+    padding-top: 47px;
+    display: flex;
+    padding: 40px 60px;
+    justify-content: space-between;
+    color: #fff;
+    font-family:sans-serif;
+    font-weight: 100;
+}
+.customersupport{
+padding-left: 20px;
+font-family:sans-serif;
+font-size: larger;
+font-weight: 600;
+color: #fff;
+}
+.cl{
+    color: #EA2703;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.ph{
+margin-left: 20px;
+margin-top: 10px;
+color: #fff;
+}
+.footbox2{
+    width: 1285.42px;
+    height: 127.8px;
+    background-color: #190D1f;
+    margin-top: -40px;
+    color: #fff;
+}
+.last{
+    margin-left: 378px;
+}
+
+
+
